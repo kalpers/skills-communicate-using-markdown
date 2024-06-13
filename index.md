@@ -5,3 +5,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+***Javascript***
+```
+let connect = 'connecting';
+console.log(connnect);
+```
